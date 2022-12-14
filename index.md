@@ -17,4 +17,5 @@ My GitHub page is http://github.com/CorneredCube.
     Lab 7, part 2 was a favorite because I was very relieved when doing it. I absolutely loathed not using functions in the previous labs. As an experienced programmer I used functions to make my code more efficient and organized; not having these tools was quite irksome. I also enjoyed making the blackjack game, I got to see multiple ways others had done it and the different styles had itrigued me.
 
 * Lab 8
+
     Finally Lab 8, part 2 was another favorite; due to the use of files. Previously in java I had used files for all sorts of things, but in c++ they worked a little differently. I had never saved a file onto a computer in java before, so doing it in this lab had piqued intrested me. As a computer Scientist I am always so interested in finding more efficient and different ways to use code, so actually learning something new in this class made me very excited.
