@@ -14,3 +14,6 @@ My GitHub page is http://github.com/CorneredCube.
     game Blackjack works. I was able to write functions for the first time
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
+
+* Lab 2
+     working on it
