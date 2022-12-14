@@ -16,4 +16,5 @@ My GitHub page is http://github.com/CorneredCube.
     Aces were dealt.
 
 * Lab 2
-     working on it
+
+    working on it
